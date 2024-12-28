@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - [dummyjson](https://dummyjson.com/)
 - [dontasktoask](https://dontasktoask.com/)
+- [restfulapi](https://restfulapi.net/)
