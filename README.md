@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - [RESTful API](https://restfulapi.net/)
 - [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+- [Database naming standards](https://dev.to/ovid/database-naming-standards-2061)
