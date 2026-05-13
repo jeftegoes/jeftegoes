@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Database naming standards](https://dev.to/ovid/database-naming-standards-2061)
 - [Game Icons](https://game-icons.net/)
+- [Conventional Commits](https://www.conventionalcommits.org/)
